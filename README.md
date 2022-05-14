@@ -1,5 +1,9 @@
 # Pastebin
 
+````
+pip install NaNbin
+````
+
 Create a Paste as a guest.
 
 get your api_dev_key from [here](https://pastebin.com/doc_api#1)
